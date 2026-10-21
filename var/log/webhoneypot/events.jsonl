@@ -1,0 +1,2 @@
+{"timestamp": "2026-10-21T15:25:19.482549+00:00", "event": "page_view", "source_ip": "127.0.0.1", "method": "GET", "path": "/", "username": "", "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"}
+{"timestamp": "2026-10-21T15:25:34.584781+00:00", "event": "login_attempt", "source_ip": "127.0.0.1", "method": "POST", "path": "/login", "username": "any", "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"}

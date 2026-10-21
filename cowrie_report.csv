@@ -1,0 +1,15 @@
+timestamp,eventid,src_ip,username,input,session
+2026-10-18T13:42:37.015536Z,cowrie.session.connect,127.0.0.1,,,62521445a5fc
+2026-10-18T13:42:37.016323Z,cowrie.client.version,127.0.0.1,,,62521445a5fc
+2026-10-18T13:42:37.017971Z,cowrie.client.kex,127.0.0.1,,,62521445a5fc
+2026-10-18T13:43:54.330709Z,cowrie.login.success,127.0.0.1,testuser,,62521445a5fc
+2026-10-18T13:43:54.460817Z,cowrie.client.size,127.0.0.1,,,62521445a5fc
+2026-10-18T13:43:54.461206Z,cowrie.client.var,127.0.0.1,,,62521445a5fc
+2026-10-18T13:43:54.461421Z,cowrie.client.var,127.0.0.1,,,62521445a5fc
+2026-10-18T13:43:54.462254Z,cowrie.session.params,127.0.0.1,,,62521445a5fc
+2026-10-18T13:44:07.571413Z,cowrie.command.input,127.0.0.1,,whoami,62521445a5fc
+2026-10-18T13:44:12.873769Z,cowrie.command.input,127.0.0.1,,pwd,62521445a5fc
+2026-10-18T13:44:16.852202Z,cowrie.command.input,127.0.0.1,,ls,62521445a5fc
+2026-10-18T13:44:20.994863Z,cowrie.command.input,127.0.0.1,,exit,62521445a5fc
+2026-10-18T13:44:20.999435Z,cowrie.log.closed,127.0.0.1,,,62521445a5fc
+2026-10-18T13:44:21.001464Z,cowrie.session.closed,127.0.0.1,,,62521445a5fc
