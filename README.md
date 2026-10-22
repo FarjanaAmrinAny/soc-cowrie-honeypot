@@ -41,6 +41,8 @@ The initial local test generated 14 events, including one successful login event
 
 ## Disclaimer
 This project is for educational and defensive cybersecurity purposes. Do not expose the honeypot to the public internet without appropriate isolation, firewall rules, and monitoring.
+
+
 <img width="1910" height="824" alt="1" src="https://github.com/user-attachments/assets/ee8d274b-7253-469e-a9c0-62328be29b49" />
 <img width="1900" height="540" alt="2" src="https://github.com/user-attachments/assets/168f43d2-33b9-48c4-921f-da0ea0733af4" />
 <img width="1913" height="474" alt="3" src="https://github.com/user-attachments/assets/c2076e88-968a-4aa7-8f12-0aed24432828" />
